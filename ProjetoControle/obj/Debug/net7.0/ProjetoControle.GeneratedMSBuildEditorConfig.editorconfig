@@ -24,6 +24,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[M:/Controle de Estacionamento/ProjetoControle/ProjetoControle/Views/ParkingControls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFya2luZ0NvbnRyb2xzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Controle de Estacionamento/ProjetoControle/ProjetoControle/Views/ParkingControls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFya2luZ0NvbnRyb2xzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Controle de Estacionamento/ProjetoControle/ProjetoControle/Views/ParkingControls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFya2luZ0NvbnRyb2xzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Controle de Estacionamento/ProjetoControle/ProjetoControle/Views/ParkingControls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFya2luZ0NvbnRyb2xzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Controle de Estacionamento/ProjetoControle/ProjetoControle/Views/ParkingControls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFya2luZ0NvbnRyb2xzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [M:/Controle de Estacionamento/ProjetoControle/ProjetoControle/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -2,6 +2,7 @@
 {
     public class ParkingControl
     {
+        public int Id { get; set; }
         public string Placa { get; set; }
         public string DataEnt { get; set; }
         public string DataSai { get; set; }
