@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
+      "Id": "M:\\Controle de Estacionamento\\ProjetoControle\\ProjetoControle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-cyborg.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-cyborg.css"
+    },
+    {
       "Id": "M:\\Controle de Estacionamento\\ProjetoControle\\ProjetoControle\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
